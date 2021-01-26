@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-electchain-dev-163604-authRole",
+      "UnauthRoleArn": "arn:aws:iam::133593650307:role/amplify-electchain-dev-163604-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::133593650307:role/amplify-electchain-dev-163604-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-electchain-dev-163604-deployment",
+      "UnauthRoleName": "amplify-electchain-dev-163604-unauthRole",
+      "StackName": "amplify-electchain-dev-163604",
+      "StackId": "arn:aws:cloudformation:us-west-2:133593650307:stack/amplify-electchain-dev-163604/e1a96190-6026-11eb-ad90-0a852419935f",
+      "AmplifyAppId": "d1npazt7972pq8"
+    }
+  }
+}
